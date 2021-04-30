@@ -2,7 +2,8 @@ body
 {
     font-family: Trebuchet MS;
     background-color: #EEEEEE;
-    text-shadow: 1px 1px 1px #757575;
+    margin: auto;
+    width: 75%;
 }
 .gray-bg
 {
@@ -13,4 +14,5 @@ body
 h6, h4
 {
     color: #484848;
+    text-shadow: 1px 1px 1px #AAAAAA;
 }
