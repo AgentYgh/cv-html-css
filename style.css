@@ -2,10 +2,12 @@ body
 {
     font-family: Trebuchet MS;
     background-color: #EEEEEE;
+    text-shadow: 1px 1px 1px #757575;
 }
 .gray-bg
 {
     background-color: #484848;
+    border: 3px #252525 solid;
     color: #EEEEEE;
 }
 h6, h4
