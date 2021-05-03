@@ -5,20 +5,20 @@ body
     margin: auto;
     width: 100%;
 }
-.gray-bg
+.background
 {
-    background-color: #484848;
-    border: 3px #252525 solid;
+    background-color: #353535;
+    border: 3px #202020 solid;
     color: #EEEEEE;
 }
 h3
 {
     font-size: 175%;
-    color: #484848;
+    color: #353535;
     text-shadow: 1px 1px 1px #AAAAAA;
 }
 .gray-text
 {
-    color: #484848;
+    color: #353535;
     text-shadow: 1px 1px 1px #AAAAAA;
 }
