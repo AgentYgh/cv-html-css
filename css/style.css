@@ -11,7 +11,13 @@ body
     border: 3px #252525 solid;
     color: #EEEEEE;
 }
-h6, h4
+h3
+{
+    font-size: 175%;
+    color: #484848;
+    text-shadow: 1px 1px 1px #AAAAAA;
+}
+.gray-text
 {
     color: #484848;
     text-shadow: 1px 1px 1px #AAAAAA;
